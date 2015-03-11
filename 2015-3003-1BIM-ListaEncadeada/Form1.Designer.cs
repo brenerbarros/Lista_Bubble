@@ -36,6 +36,7 @@
             this.button5 = new System.Windows.Forms.Button();
             this.BubbleSort = new System.Windows.Forms.Button();
             this.Organizarbublle = new System.Windows.Forms.Button();
+            this.Visualizador = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // button1
@@ -97,9 +98,9 @@
             // 
             // BubbleSort
             // 
-            this.BubbleSort.Location = new System.Drawing.Point(379, 12);
+            this.BubbleSort.Location = new System.Drawing.Point(421, 12);
             this.BubbleSort.Name = "BubbleSort";
-            this.BubbleSort.Size = new System.Drawing.Size(130, 23);
+            this.BubbleSort.Size = new System.Drawing.Size(130, 26);
             this.BubbleSort.TabIndex = 6;
             this.BubbleSort.Text = "BubbleSort";
             this.BubbleSort.UseVisualStyleBackColor = true;
@@ -107,19 +108,28 @@
             // 
             // Organizarbublle
             // 
-            this.Organizarbublle.Location = new System.Drawing.Point(383, 50);
+            this.Organizarbublle.Location = new System.Drawing.Point(421, 44);
             this.Organizarbublle.Name = "Organizarbublle";
-            this.Organizarbublle.Size = new System.Drawing.Size(125, 20);
+            this.Organizarbublle.Size = new System.Drawing.Size(130, 29);
             this.Organizarbublle.TabIndex = 7;
             this.Organizarbublle.Text = "Organizar";
             this.Organizarbublle.UseVisualStyleBackColor = true;
             this.Organizarbublle.Click += new System.EventHandler(this.Organizarbublle_Click);
+            // 
+            // Visualizador
+            // 
+            this.Visualizador.Location = new System.Drawing.Point(377, 79);
+            this.Visualizador.Multiline = true;
+            this.Visualizador.Name = "Visualizador";
+            this.Visualizador.Size = new System.Drawing.Size(207, 83);
+            this.Visualizador.TabIndex = 8;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(596, 188);
+            this.Controls.Add(this.Visualizador);
             this.Controls.Add(this.Organizarbublle);
             this.Controls.Add(this.BubbleSort);
             this.Controls.Add(this.button5);
@@ -147,6 +157,7 @@
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Button BubbleSort;
         private System.Windows.Forms.Button Organizarbublle;
+        private System.Windows.Forms.TextBox Visualizador;
 
     }
 }

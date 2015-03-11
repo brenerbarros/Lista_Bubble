@@ -62,7 +62,7 @@ namespace _2015_3003_1BIM_ListaEncadeada
 
             for (int i = 0; i < bubble.Length-1; i++)
             {
-                Console.WriteLine(bubble[i]);
+                Visualizador.Text += bubble[i] + "/";
             }
         }
 
@@ -80,13 +80,12 @@ namespace _2015_3003_1BIM_ListaEncadeada
                     }
                 }
             }
-            Console.WriteLine("--------------");
+            Visualizador.Text += "\r\n";
             for (int i = 0; i < bubble.Length; i++)
             {
-                Console.WriteLine(bubble[i]);
+                Visualizador.Text += +bubble[i]+"/";
             }
         }
 
-       
     }
 }

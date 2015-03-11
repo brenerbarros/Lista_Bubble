@@ -25,3 +25,12 @@ C:\Users\israel.nascimento\Desktop\2015-3003-1BIM-ListaEncadeada\2015-3003-1BIM-
 C:\Users\israel.nascimento\Desktop\2015-3003-1BIM-ListaEncadeada\2015-3003-1BIM-ListaEncadeada\obj\Debug\_2015_3003_1BIM_ListaEncadeada.Form1.resources
 C:\Users\israel.nascimento\Desktop\2015-3003-1BIM-ListaEncadeada\2015-3003-1BIM-ListaEncadeada\obj\Debug\_2015_3003_1BIM_ListaEncadeada.Properties.Resources.resources
 C:\Users\israel.nascimento\Desktop\2015-3003-1BIM-ListaEncadeada\2015-3003-1BIM-ListaEncadeada\obj\Debug\2015-3003-1BIM-ListaEncadeada.csproj.GenerateResource.Cache
+C:\Users\israel.nascimento\Desktop\2015-3003-1BIM-ListaEncadeada\Lista_Bubble\2015-3003-1BIM-ListaEncadeada\bin\Debug\2015-3003-1BIM-ListaEncadeada.exe.config
+C:\Users\israel.nascimento\Desktop\2015-3003-1BIM-ListaEncadeada\Lista_Bubble\2015-3003-1BIM-ListaEncadeada\obj\Debug\2015-3003-1BIM-ListaEncadeada.exe
+C:\Users\israel.nascimento\Desktop\2015-3003-1BIM-ListaEncadeada\Lista_Bubble\2015-3003-1BIM-ListaEncadeada\obj\Debug\2015-3003-1BIM-ListaEncadeada.pdb
+C:\Users\israel.nascimento\Desktop\2015-3003-1BIM-ListaEncadeada\Lista_Bubble\2015-3003-1BIM-ListaEncadeada\obj\Debug\2015-3003-1BIM-ListaEncadeada.csprojResolveAssemblyReference.cache
+C:\Users\israel.nascimento\Desktop\2015-3003-1BIM-ListaEncadeada\Lista_Bubble\2015-3003-1BIM-ListaEncadeada\obj\Debug\_2015_3003_1BIM_ListaEncadeada.Form1.resources
+C:\Users\israel.nascimento\Desktop\2015-3003-1BIM-ListaEncadeada\Lista_Bubble\2015-3003-1BIM-ListaEncadeada\obj\Debug\_2015_3003_1BIM_ListaEncadeada.Properties.Resources.resources
+C:\Users\israel.nascimento\Desktop\2015-3003-1BIM-ListaEncadeada\Lista_Bubble\2015-3003-1BIM-ListaEncadeada\obj\Debug\2015-3003-1BIM-ListaEncadeada.csproj.GenerateResource.Cache
+C:\Users\israel.nascimento\Desktop\2015-3003-1BIM-ListaEncadeada\Lista_Bubble\2015-3003-1BIM-ListaEncadeada\bin\Debug\2015-3003-1BIM-ListaEncadeada.exe
+C:\Users\israel.nascimento\Desktop\2015-3003-1BIM-ListaEncadeada\Lista_Bubble\2015-3003-1BIM-ListaEncadeada\bin\Debug\2015-3003-1BIM-ListaEncadeada.pdb
